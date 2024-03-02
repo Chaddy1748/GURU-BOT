@@ -7,7 +7,7 @@ import axios from 'axios'
 
 
 global.owner = [CHADWICK HORACE 
-  [`+254782775836', 'CHADWICK' s  BOT', true],
+  [`+254795297855', 'CHADWICK' s  BOT', true],
   ['6281255369012', 'Ash', true], 
   [''] 
 ] //Number of owners
