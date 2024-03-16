@@ -6,10 +6,10 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 
 
-global.owner = [
+global.owner = [CHADWICK 
   ['917605902011', 'GURU', true],
   ['6281255369012', 'Ash', true], 
-  [''] 
+  [254795297855 '] 
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
@@ -50,7 +50,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = 'CHADWICK HORACE '
 global.premium = 'true'
 global.packname = 'GURU┃ᴮᴼᵀ' 
 global.author = '@Asliguru' 
